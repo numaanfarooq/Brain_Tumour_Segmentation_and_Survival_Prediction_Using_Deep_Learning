@@ -1,8 +1,17 @@
-Brain Tumor Segmentation and Survival Prediction
+Brain Tumor Segmentation and Survival Prediction:-
+
+
+
 Project Overview
+
+
 The Brain Tumor Segmentation and Survival Prediction project is designed to leverage advanced deep learning techniques to automate the segmentation of brain tumors from MRI scans and to predict patient survival rates.
 
-This project employs a U-Net architecture for precise tumor segmentation, enabling clinicians to visualize and analyze tumor boundaries more efficiently. Following segmentation, the project extracts relevant radiomic features to facilitate the prediction of survival outcomes, utilizing various machine learning algorithms.
+
+
+This project employs a U-Net architecture for precise tumor segmentation, enabling clinicians to visualize and analyze tumor boundaries more efficiently. Following segmentation, the project extracts relevant 
+radiomic features to facilitate the prediction of survival outcomes, utilizing various machine learning algorithms.
+
 
 The integration of these components aims to improve diagnostic accuracy, enhance treatment planning, and ultimately contribute to better patient outcomes in neuro-oncology.
 
